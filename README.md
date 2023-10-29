@@ -1,8 +1,8 @@
 # SVOL: Sketch-based Video Object Localization
 
-![sample1](https://github.com/sangminwoo/svol/assets/33993419/556f61e6-01c3-405b-ae75-049305fa8183)
-![sample2](https://github.com/sangminwoo/svol/assets/33993419/40f492dd-fae7-4c35-8b79-82f4c19676e6)
-![sample3](https://github.com/sangminwoo/svol/assets/33993419/8938eda5-d895-4320-92fd-a89b1f332c76)
+![sample1](https://github.com/sangminwoo/SVOL/assets/33993419/556f61e6-01c3-405b-ae75-049305fa8183)
+![sample2](https://github.com/sangminwoo/SVOL/assets/33993419/40f492dd-fae7-4c35-8b79-82f4c19676e6)
+![sample3](https://github.com/sangminwoo/SVOL/assets/33993419/8938eda5-d895-4320-92fd-a89b1f332c76)
 
 **Paper: https://arxiv.org/abs/2304.00450**
 
@@ -45,7 +45,7 @@ SVOL uses multiple datasets for training and evaluation. Ensure you have the fol
 For the ImageNet-VID dataset, organize the data as follows:
 1. In the `ILSVRC/Annotations/VID/train/` directory, move all files from `ILSVRC2015_VID_train_0000`, `ILSVRC2015_VID_train_0001`, `ILSVRC2015_VID_train_0002`, and `ILSVRC2015_VID_train_0003` to the parent directory.
 2. In the `ILSVRC/Data/VID/train/` directory, move all files from `ILSVRC2015_VID_train_0000`, `ILSVRC2015_VID_train_0001`, `ILSVRC2015_VID_train_0002`, `ILSVRC2015_VID_train_0003` to the parent directory.
-3. Follow [Preprocessing](https://github.com/sangminwoo/svol/tree/main/preprocess) steps.
+3. Follow [Preprocessing](https://github.com/sangminwoo/SVOL/tree/main/preprocess) steps.
 
 
 ### Training
