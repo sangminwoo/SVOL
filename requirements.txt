@@ -1,0 +1,13 @@
+numpy
+tqdm
+scipy
+pandas
+sklearn
+tabulate
+easydict
+pycocotools
+more_itertools
+imageio
+tensorboardx
+transformers
+neptune-client
