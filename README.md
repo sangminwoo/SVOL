@@ -1,8 +1,8 @@
 # SVOL: Sketch-based Video Object Localization
 
-![sample1](https://github.com/sangminwoo/SVOL/assets/33993419/556f61e6-01c3-405b-ae75-049305fa8183)
-![sample2](https://github.com/sangminwoo/SVOL/assets/33993419/40f492dd-fae7-4c35-8b79-82f4c19676e6)
-![sample3](https://github.com/sangminwoo/SVOL/assets/33993419/8938eda5-d895-4320-92fd-a89b1f332c76)
+![sample1](https://github.com/sangminwoo/SVOL/assets/33993419/3d6f4d30-7c05-4471-a1aa-f45265154a1d)
+![sample2](https://github.com/sangminwoo/SVOL/assets/33993419/c7b9b65e-0b50-44f5-b720-b4f83c357e59)
+![sample3](https://github.com/sangminwoo/SVOL/assets/33993419/9f29c7a2-e644-47b7-864a-219a64f91885)
 
 **Paper: https://arxiv.org/abs/2304.00450**
 
